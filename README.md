@@ -1,4 +1,4 @@
-# 🚗 Vision-Based Time-To-Collision (TTC) Collision Warning System
+#  Vision-Based Time-To-Collision (TTC) Collision Warning System
 
 #Overview
 
